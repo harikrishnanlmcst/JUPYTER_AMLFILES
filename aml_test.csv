@@ -1,0 +1,4 @@
+﻿amount,oldbalanceOrg,newbalanceOrig,oldbalanceDest,newbalanceDest,isFraud,type_encoded
+5170.23,184781,179610.77,0,0,0,3
+8553.73,69404,60850.27,0,0,0,3
+11982.62,22386,10403.38,0,0,0,3

@@ -1,0 +1,250 @@
+Id,Code,Name,Description,RiskRating,FATFRISKRating,isocode3digit,Riskscore,UNCODE,Is_active,created_by,created_on,updated_by,updated_on,Mandatory_document,Optional_document,Isoptional_required,priority,Ismandatory_required,rating_source,risk_assessment
+1,AF,Afghanistan,Afghanistan,6.84,0,AFG,\N,4,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+2,AX,Aland Islands,Aland Islands,6.1,0,ALA,\N,248,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+3,AL,Albania,Albania,13,1,ALB,\N,8,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+4,DZ,Algeria,Algeria,6.03,0,DZA,\N,12,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+5,AS,American Samoa,American Samoa,6.1,0,ASM,\N,16,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+6,AD,Andorra,Andorra,2.89,1,AND,0,20,1,0,09-02-2023 16:54,1,24-04-2023 11:24,3,,0,2,1,Basel Index,Low Risk
+7,AO,Angola,Angola,6.03,0,AGO,\N,24,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+8,AI,Anguilla,Anguilla,6.1,0,AIA,\N,660,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+9,AQ,Antarctica,Antarctica,6.1,0,ATA,\N,10,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+10,AG,Antigua and Barbuda,Antigua and Barbuda,4.98,0,ATG,\N,28,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+11,AR,Argentina,Argentina,5.58,0,ARG,\N,32,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+12,AM,Armenia,Armenia,4.64,0,ARM,\N,51,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+13,AW,Aruba,Aruba,4.99,0,ABW,\N,533,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+14,AU,Australia,Australia,3.65,0,AUS,\N,36,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+15,AT,Austria,Austria,4.01,0,AUT,\N,40,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+16,AZ,Azerbaijan,Azerbaijan,6.93,0,AZE,\N,31,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+17,BS,Bahamas (the),Bahamas (the),5.93,0,BHS,\N,44,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+18,BH,Bahrain,Bahrain,4.83,0,BHR,\N,48,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+19,BD,Bangladesh,Bangladesh,5.75,0,BGD,\N,50,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+20,BB,Barbados,Barbados,13,1,BRB,\N,52,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+21,BY,Belarus,Belarus,5.21,0,BLR,\N,112,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+22,BE,Belgium,Belgium,4.01,0,BEL,\N,56,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+23,BZ,Belize,Belize,6.1,0,BLZ,\N,84,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+24,BJ,Benin,Benin,6.8,0,BEN,\N,204,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+25,BM,Bermuda,Bermuda,6.1,0,BMU,\N,60,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+26,BT,Bhutan,Bhutan,6.15,0,BTN,\N,64,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+27,BO,Bolivia (Plurinational State of),Bolivia (Plurinational State of),6.21,0,BOL,\N,68,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+28,BQ,"BONAIRE, SINT EUSTATIUS AND SABA","Bonaire, Sint Eustatius and Saba",6.1,0,BES,\N,535,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+29,BA,Bosnia and Herzegovina,Bosnia and Herzegovina,5.94,0,BIH,\N,70,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+30,BW,Botswana,Botswana,5.07,0,BWA,\N,72,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+31,BV,Bouvet Island,Bouvet Island,6.1,0,BVT,\N,74,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+32,BR,Brazil,Brazil,5.58,0,BRA,\N,76,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+33,IO,British Indian Ocean Territory (the),British Indian Ocean Territory (the),6.1,0,IOT,\N,86,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+34,BN,Brunei Darussalam,Brunei Darussalam,6.1,0,BRN,\N,96,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+35,BG,Bulgaria,Bulgaria,5.16,0,BGR,\N,100,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+36,BF,Burkina Faso,Burkina Faso,13,1,BFA,\N,854,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+37,BI,Burundi,Burundi,7.47,0,BDI,\N,108,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+38,CV,Cabo Verde,Cabo Verde,6.11,0,CPV,\N,132,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+39,KH,Cambodia,Cambodia,7.36,1,KHM,\N,116,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+40,CM,Cameroon,Cameroon,6.88,0,CMR,\N,120,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+41,CA,Canada,Canada,4.25,0,CAN,\N,124,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+42,KY,Cayman Islands (the),Cayman Islands (the),13,1,CYM,\N,136,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+43,CF,Central African Republic (the),Central African Republic (the),6.84,0,CAF,\N,140,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+44,TD,Chad,Chad,7.29,0,TCD,\N,148,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+45,CL,Chile,Chile,4.03,0,CHL,\N,152,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+46,CN,China,China,6.69,0,CHN,\N,156,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+47,CX,Christmas Island,Christmas Island,6.1,0,CXR,\N,162,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+48,CC,Cocos (Keeling) Islands (the),Cocos (Keeling) Islands (the),6.1,0,CCK,\N,166,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+49,CO,Colombia,Colombia,4.74,0,COL,\N,170,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+50,KM,Comoros (the),Comoros (the),7.29,0,COM,\N,174,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+51,CD,Congo (the Democratic Republic of the),Congo (the Democratic Republic of the),13,1,COD,\N,180,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+52,CG,Congo (the),Congo (the),7.11,0,COG,\N,178,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+53,CK,Cook Islands (the),Cook Islands (the),6.1,0,COK,\N,184,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+54,CR,Costa Rica,Costa Rica,4.58,0,CRI,\N,188,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+55,CI,Côte d'Ivoire,Côte d'Ivoire,5.67,0,CIV,\N,384,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+56,HR,Croatia,Croatia,4.74,0,HRV,\N,191,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+57,CU,Cuba,Cuba,5.62,0,CUB,\N,192,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+58,CW,Curaçao,Curaçao,6.1,0,CUW,\N,531,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+59,CY,Cyprus,Cyprus,4.61,0,CYP,\N,196,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+60,CZ,Czechia,Czechia,3.81,0,CZE,\N,203,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+61,DK,Denmark,Denmark,3.56,0,DNK,\N,208,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+62,DJ,Djibouti,Djibouti,6.3,0,DJI,\N,262,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+63,DM,Dominica,Dominica,4.05,0,DMA,\N,212,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+64,DO,Dominican Republic (the),Dominican Republic (the),5.03,0,DOM,\N,214,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+65,EC,Ecuador,Ecuador,5.76,0,ECU,\N,218,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+66,EG,Egypt,Egypt,4.84,0,EGY,\N,818,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+67,SV,El Salvador,El Salvador,6.03,0,SLV,\N,222,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+68,GQ,Equatorial Guinea,Equatorial Guinea,7.47,0,GNQ,\N,226,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+69,ER,Eritrea,Eritrea,7.02,0,ERI,\N,232,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+70,EE,Estonia,Estonia,2.34,0,EST,\N,233,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Low Risk
+71,SZ,Eswatini,Eswatini,6.91,0,SWZ,\N,748,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+72,ET,Ethiopia,Ethiopia,6.63,0,ETH,\N,231,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+73,FK,Falkland Islands (the) [Malvinas],Falkland Islands (the) [Malvinas],6.1,0,FLK,\N,238,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+74,FO,Faroe Islands (the),Faroe Islands (the),6.1,0,FRO,\N,234,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+75,FJ,Fiji,Fiji,4.65,0,FJI,\N,242,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+76,FI,Finland,Finland,2.88,0,FIN,\N,246,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Low Risk
+77,FR,France,France,3.52,0,FRA,\N,250,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+78,GF,French Guiana,French Guiana,6.1,0,GUF,\N,254,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+79,PF,French Polynesia,French Polynesia,6.1,0,PYF,\N,258,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+80,TF,French Southern Territories (the),French Southern Territories (the),6.1,0,ATF,\N,260,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+81,GA,Gabon,Gabon,6.39,0,GAB,\N,266,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+82,GM,Gambia (the),Gambia (the),5.94,0,GMB,\N,270,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+83,GE,Georgia,Georgia,4.64,0,GEO,\N,268,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+84,DE,Germany,Germany,4.21,0,DEU,\N,276,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+85,GH,Ghana,Ghana,5.7,0,GHA,\N,288,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+86,GI,Gibraltar,Gibraltar,13,1,GIB,\N,292,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+87,GR,Greece,Greece,3.71,0,GRC,\N,300,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+88,GL,Greenland,Greenland,6.1,0,GRL,\N,304,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+89,GD,Grenada,Grenada,4.91,0,GRD,\N,308,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+90,GP,Guadeloupe,Guadeloupe,6.1,0,GLP,\N,312,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+91,GU,Guam,Guam,6.1,0,GUM,\N,316,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+92,GT,Guatemala,Guatemala,5.29,0,GTM,\N,320,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+93,GG,Guernsey,Guernsey,6.1,0,GGY,\N,831,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+94,GN,Guinea,Guinea,6.75,0,GIN,\N,324,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+95,GW,Guinea-Bissau,Guinea-Bissau,7.53,0,GNB,\N,624,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,High Risk
+96,GY,Guyana,Guyana,5.4,0,GUY,\N,328,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+97,HT,Haiti,Haiti,13,1,HTI,\N,332,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+98,HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,6.1,0,HMD,\N,334,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+99,VA,Holy See (the),Holy See (the),6.1,0,VAT,\N,336,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+100,HN,Honduras,Honduras,5.54,0,HND,\N,340,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+101,HK,Hong Kong,Hong Kong,5.05,0,HKG,\N,344,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+102,HU,Hungary,Hungary,4.98,0,HUN,\N,348,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+103,IS,Iceland,Iceland,3.31,0,ISL,\N,352,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+104,IN,India,India,5.4,0,IND,\N,356,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+105,ID,Indonesia,Indonesia,5.19,0,IDN,\N,360,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+106,IR,Iran (Islamic Republic of),Iran (Islamic Republic of),20,1,IRN,\N,364,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Black List,High Risk
+107,IQ,Iraq,Iraq,6.93,0,IRQ,\N,368,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+108,IE,Ireland,Ireland,4,0,IRL,\N,372,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+109,IM,Isle of Man,Isle of Man,6.1,0,IMN,\N,833,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+110,IL,Israel,Israel,3.63,0,ISR,\N,376,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+111,IT,Italy,Italy,4.55,0,ITA,\N,380,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+112,JM,Jamaica,Jamaica,13,1,JAM,\N,388,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+113,JP,Japan,Japan,4.7,0,JPN,\N,392,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+114,JE,Jersey,Jersey,6.1,0,JEY,\N,832,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+115,JO,Jordan,Jordan,13,1,JOR,\N,400,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+116,KZ,Kazakhstan,Kazakhstan,5.76,0,KAZ,\N,398,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+117,KE,Kenya,Kenya,6.12,0,KEN,\N,404,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+118,KI,Kiribati,Kiribati,6.1,0,KIR,\N,296,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+119,KP,Korea (the Democratic People's Republic of),Korea (the Democratic People's Republic of),20,1,PRK,\N,408,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Black List,High Risk
+120,KR,Korea (the Republic of),Korea (the Republic of),4.51,0,KOR,\N,410,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+121,KW,Kuwait,Kuwait,5.22,0,KWT,\N,414,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+122,KG,Kyrgyzstan,Kyrgyzstan,5.92,0,KGZ,\N,417,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+123,LA,Lao People's Democratic Republic (the),Lao People's Democratic Republic (the),6.21,0,LAO,\N,418,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+124,LV,Latvia,Latvia,3.96,0,LVA,\N,428,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+125,LB,Lebanon,Lebanon,6.84,0,LBN,\N,422,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+126,LS,Lesotho,Lesotho,5.67,0,LSO,\N,426,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+127,LR,Liberia,Liberia,6.66,0,LBR,\N,430,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+128,LY,Libya,Libya,7.47,0,LBY,\N,434,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+129,LI,Liechtenstein,Liechtenstein,4.59,0,LIE,\N,438,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+130,LT,Lithuania,Lithuania,3.43,0,LTU,\N,440,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+131,LU,Luxembourg,Luxembourg,2.07,0,LUX,\N,442,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Low Risk
+132,MO,Macao,Macao,6.03,0,MAC,\N,446,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+133,MG,Madagascar,Madagascar,7.59,0,MDG,\N,450,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,High Risk
+134,MW,Malawi,Malawi,5.62,0,MWI,\N,454,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+135,MY,Malaysia,Malaysia,5.33,0,MYS,\N,458,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+136,MV,Maldives,Maldives,5.4,0,MDV,\N,462,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+137,ML,Mali,Mali,13,1,MLI,\N,466,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+138,MT,Malta,Malta,4.83,0,MLT,\N,470,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+139,MH,Marshall Islands (the),Marshall Islands (the),6.1,0,MHL,\N,584,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+140,MQ,Martinique,Martinique,6.1,0,MTQ,\N,474,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+141,MR,Mauritania,Mauritania,6.89,0,MRT,\N,478,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+142,MU,Mauritius,Mauritius,5.03,0,MUS,\N,480,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+143,YT,Mayotte,Mayotte,6.1,0,MYT,\N,175,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+144,MX,Mexico,Mexico,5.2,0,MEX,\N,484,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+145,FM,Micronesia (Federated States of),Micronesia (Federated States of),6.1,0,FSM,\N,583,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+146,MD,Moldova (the Republic of),Moldova (the Republic of),4.7,0,MDA,\N,498,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+147,MC,Monaco,Monaco,6.1,0,MCO,\N,492,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+148,MN,Mongolia,Mongolia,5.86,0,MNG,\N,496,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+149,ME,Montenegro,Montenegro,4.95,0,MNE,\N,499,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+150,MS,Montserrat,Montserrat,6.1,0,MSR,\N,500,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+151,MA,Morocco,Morocco,5.16,1,MAR,\N,504,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+152,MZ,Mozambique,Mozambique,13,1,MOZ,\N,508,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+153,MM,Myanmar,Myanmar,20,1,MMR,\N,104,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Black List,High Risk
+154,NA,Namibia,Namibia,4.59,0,NAM,\N,516,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+155,NR,Nauru,Nauru,6.1,0,NRU,\N,520,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+156,NP,Nepal,Nepal,5.94,0,NPL,\N,524,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+157,NL,Netherlands (the),Netherlands (the),4.06,0,NLD,\N,528,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+158,NC,New Caledonia,New Caledonia,6.1,0,NCL,\N,540,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+159,NZ,New Zealand,New Zealand,3.32,0,NZL,\N,554,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+160,NI,Nicaragua,Nicaragua,6.7,0,NIC,\N,558,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+161,NE,Niger (the),Niger (the),6.6,0,NER,\N,562,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+162,NG,Nigeria,Nigeria,13,0,NGA,\N,566,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+163,NU,Niue,Niue,6.1,0,NIU,\N,570,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+164,NF,Norfolk Island,Norfolk Island,6.1,0,NFK,\N,574,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+165,MP,Northern Mariana Islands (the),Northern Mariana Islands (the),6.1,0,MNP,\N,580,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+166,NO,Norway,Norway,3.5,0,NOR,\N,578,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+167,OM,Oman,Oman,5.04,0,OMN,\N,512,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+168,PK,Pakistan,Pakistan,6.16,0,PAK,\N,586,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+169,PW,Palau,Palau,5.71,0,PLW,\N,585,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+170,PS,"PALESTINE, STATE OF","Palestine, State of",6.1,0,PSE,\N,275,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+171,PA,Panama,Panama,13,1,PAN,\N,591,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+172,PG,Papua New Guinea,Papua New Guinea,6.3,0,PNG,\N,598,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+173,PY,Paraguay,Paraguay,6.48,0,PRY,\N,600,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+174,PE,Peru,Peru,4.72,0,PER,\N,604,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+175,PH,Philippines (the),Philippines (the),13,1,PHL,\N,608,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+176,PN,Pitcairn,Pitcairn,6.1,0,PCN,\N,612,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+177,PL,Poland,Poland,4.39,0,POL,\N,616,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+178,PT,Portugal,Portugal,4,0,PRT,\N,620,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+179,PR,Puerto Rico,Puerto Rico,6.1,0,PRI,\N,630,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+180,QA,Qatar,Qatar,3.78,0,QAT,\N,634,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+181,MK,Republic of North Macedonia,Republic of North Macedonia,5.4,0,MKD,\N,807,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+182,RE,Reunion,Réunion,6.1,0,REU,\N,638,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+183,RO,Romania,Romania,4.86,0,ROU,\N,642,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+184,RU,Russian Federation (the),Russian Federation (the),5.24,0,RUS,\N,643,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+185,RW,Rwanda,Rwanda,4.41,0,RWA,\N,646,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+186,BL,Saint Barthelemy,Saint Barthélemy,6.1,0,BLM,\N,652,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+187,SH,"SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA","Saint Helena, Ascension and Tristan da Cunha",6.1,0,SHN,\N,654,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+188,KN,Saint Kitts and Nevis,Saint Kitts and Nevis,6.06,0,KNA,\N,659,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+189,LC,Saint Lucia,Saint Lucia,5.42,0,LCA,\N,662,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+190,MF,Saint Martin (French part),Saint Martin (French part),6.1,0,MAF,\N,663,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+191,PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,6.1,0,SPM,\N,666,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+192,VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,3.6,0,VCT,\N,670,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+193,WS,Samoa,Samoa,4.89,0,WSM,\N,882,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+194,SM,San Marino,San Marino,3.34,0,SMR,\N,674,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+195,ST,Sao Tome and Principe,Sao Tome and Principe,4.95,0,STP,\N,678,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+196,SA,Saudi Arabia,Saudi Arabia,5.28,0,SAU,\N,682,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+197,SN,Senegal,Senegal,13,1,SEN,\N,686,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+198,RS,Serbia,Serbia,4.87,0,SRB,\N,688,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+199,SC,Seychelles,Seychelles,5.49,0,SYC,\N,690,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+200,SL,Sierra Leone,Sierra Leone,6.97,0,SLE,\N,694,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+201,SG,Singapore,Singapore,4.28,0,SGP,\N,702,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+202,SX,Sint Maarten (Dutch part),Sint Maarten (Dutch part),6.1,0,SXM,\N,534,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+203,SK,Slovakia,Slovakia,4.35,0,SVK,\N,703,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+204,SI,Slovenia,Slovenia,3.37,0,SVN,\N,705,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+205,SB,Solomon Islands,Solomon Islands,6.54,0,SLB,\N,90,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+206,SO,Somalia,Somalia,7.92,0,SOM,\N,706,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+207,ZA,South Africa,South Africa,13,0,ZAF,\N,710,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+208,GS,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,6.1,0,SGS,\N,239,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+209,SS,South Sudan,South Sudan,13,1,SSD,\N,728,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+210,ES,Spain,Spain,3.88,0,ESP,\N,724,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+211,LK,Sri Lanka,Sri Lanka,6.01,0,LKA,\N,144,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+212,SD,Sudan (the),Sudan (the),7.02,0,SDN,\N,729,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+213,SR,Suriname,Suriname,5.4,0,SUR,\N,740,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+214,SJ,Svalbard and Jan Mayen,Svalbard and Jan Mayen,6.1,0,SJM,\N,744,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+215,SE,Sweden,Sweden,3.12,0,SWE,\N,752,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+216,CH,Switzerland,Switzerland,4.55,0,CHE,\N,756,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+217,SY,Syrian Arab Republic,Syrian Arab Republic,13,1,SYR,\N,760,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+218,TW,TW,Taiwan (Province of China),4.08,0,TWN,\N,158,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+219,TJ,TJ,Tajikistan,5.83,0,TJK,\N,762,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+220,TZ,"TANZANIA, UNITED REPUBLIC OF","Tanzania, United Republic of",13,1,TZA,\N,834,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+221,TH,Thailand,Thailand,5.8,0,THA,\N,764,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+222,TL,Timor-Leste,Timor-Leste,5.22,0,TLS,\N,626,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium Risk
+223,TG,Togo,Togo,6.3,0,TGO,\N,768,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,Medium-High Risk
+224,TK,Tokelau,Tokelau,6.1,0,TKL,\N,772,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+225,TO,Tonga,Tonga,6.72,0,TON,\N,776,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+226,TT,Trinidad and Tobago,Trinidad and Tobago,4.86,0,TTO,\N,780,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+227,TN,Tunisia,Tunisia,4.89,0,TUN,\N,788,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+228,TR,Turkey,Turkey,13,1,TUR,\N,792,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+229,TM,Turkmenistan,Turkmenistan,7.29,0,TKM,\N,795,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+230,TC,Turks and Caicos Islands (the),Turks and Caicos Islands (the),6.1,0,TCA,\N,796,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+231,TV,Tuvalu,Tuvalu,6.1,0,TUV,\N,798,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+232,UG,Uganda,Uganda,13,1,UGA,\N,800,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+233,UA,Ukraine,Ukraine,5.09,0,UKR,\N,804,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+234,AE,United Arab Emirates (the),United Arab Emirates (the),5.7,0,ARE,\N,784,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+235,GB,United Kingdom of Great Britain and Northern Ireland (the),United Kingdom of Great Britain and Northern Ireland (the),3.63,0,GBR,\N,826,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+236,UM,United States Minor Outlying Islands (the),United States Minor Outlying Islands (the),6.1,0,UMI,\N,581,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+237,US,United States of America (the),United States of America (the),4.32,0,USA,\N,840,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+238,UY,Uruguay,Uruguay,4.07,0,URY,\N,858,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+239,UZ,Uzbekistan,Uzbekistan,5.2,0,UZB,\N,860,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+240,VU,Vanuatu,Vanuatu,5.26,0,VUT,\N,548,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+241,VE,Venezuela (Bolivarian Republic of),Venezuela (Bolivarian Republic of),7.74,0,VEN,\N,862,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Corruption Index,High Risk
+242,VN,Viet Nam,Viet Nam,7.04,0,VNM,\N,704,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium-High Risk
+243,VG,Virgin Islands (British),Virgin Islands (British),6.1,0,VGB,\N,92,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+244,VI,Virgin Islands (U.S.),Virgin Islands (U.S.),6.1,0,VIR,\N,850,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+245,WF,Wallis and Futuna,Wallis and Futuna,6.1,0,WLF,\N,876,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+246,EH,Western Sahara,Western Sahara,6.1,0,ESH,\N,732,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Assigned Risk,Medium-High Risk
+247,YE,Yemen,Yemen,13,1,YEM,\N,887,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,FATF Grey List,High Risk
+248,ZM,Zambia,Zambia,5.99,0,ZMB,\N,894,1,0,09-02-2023 16:54,0,09-02-2023 16:54,0,\N,0,2,1,Basel Index,Medium Risk
+249,ZB,Zimbabwe,Zimbabwe,6.7,0,ZWE,0,716,1,0,09-02-2023 16:54,1,28-09-2023 15:58,3,,0,2,1,Basel Index,Medium-High Risk
